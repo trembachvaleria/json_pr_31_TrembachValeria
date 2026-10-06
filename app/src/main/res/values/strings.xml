@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">json_pr-31_Trembach</string>
+    <string name="nazvTov">Название товара:</string>
+    <string name="napr">Например: Программирование на Kotlin</string>
+    <string name="cena">Цена: </string>
+    <string name="napr2">Например: 1500.0</string>
+    <string name="tegi">Теги (через запятую):</string>
+    <string name="ycheb">учебник, программирование, android</string>
+    <string name="rez">Результат появится здесь</string>
+    <string name="rych">Ручной объект</string>
+    <string name="vvedenn">Объект введенный в поля ввода</string>
+    <string name="samopr">Самопроверка</string>
+</resources>
